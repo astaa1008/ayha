@@ -1,0 +1,3 @@
+while true do
+game. replicatedstronge.mainevent:FireServer("Stomp")
+end
